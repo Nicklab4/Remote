@@ -13,3 +13,9 @@ git remote add "имя репозитория (origin)" "адрес репози
 ```
 git pull
 ```
+```c#
+while( n<0 )
+{
+  n++
+}
+```
